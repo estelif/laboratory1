@@ -1,5 +1,5 @@
 /** This program prints the given number of integers in reverse order.
- * It uses recursion to print the integers in reverse order.
+ * It uses recursive approach.
  * Time complexity: O(n), where n is the number of integers to be printed.
  * The reverse method recursively reads integers and prints them in reverse order,
  * resulting in linear time complexity.
